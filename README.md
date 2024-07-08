@@ -8,7 +8,7 @@
 - I'm on a track of learning Artificial Intelligence, Database Organization and Cloud Computing.
 - I find both physical activity and reading to be incredibly rewarding ways to relax and recharge.
 
-
+<H2> 🛠 Tech Stack </H2>
 <!--
 **kasturi-23/kasturi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
