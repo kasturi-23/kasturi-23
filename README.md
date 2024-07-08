@@ -23,11 +23,20 @@
 </p>
 
 <h3> Databases </h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funleashing-power-mongodb-comprehensive-overview-aritra-pain-oukhc&psig=AOvVaw1neuTLO5LjUxRQNbg6nrjA&ust=1720527100747000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICJyYq1l4cDFQAAAAAdAAAAABAE
-" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/7e95531437f8c91626ae46cb69240160dfde5c39c1119c550cd174ba8a19e712/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465
+" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://camo.githubusercontent.com/3fb5c666007b264dde797b2d7e258cae7f336848f3408cef902f04c6065cc146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+
 
 <h3> ML</h3>
+<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <h3> IDE</h3>
+<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <!--
 **kasturi-23/kasturi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
