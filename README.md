@@ -1,4 +1,4 @@
-## Welcome to Kasturi P Shinde's Profile 👋
+<center>## Hi, I'm Kasturi Pandurang Shinde ! 👨‍💻</center>
 
 <!--
 **kasturi-23/kasturi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
