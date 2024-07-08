@@ -23,6 +23,9 @@
 </p>
 
 <h3> Databases </h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funleashing-power-mongodb-comprehensive-overview-aritra-pain-oukhc&psig=AOvVaw1neuTLO5LjUxRQNbg6nrjA&ust=1720527100747000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICJyYq1l4cDFQAAAAAdAAAAABAE
+" alt="C++" height="40" style="vertical-align:top; margin:4px">
+
 <h3> ML</h3>
 <h3> IDE</h3>
 <!--
