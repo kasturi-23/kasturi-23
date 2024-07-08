@@ -1,4 +1,7 @@
-<font size="1"><p align="center"><strong>Hi, I'm Kasturi Pandurang Shinde ! 👨‍💻</strong></p></font>
+<font size="1"><p align="center"><strong>Hi 👋 , I'm Kasturi Pandurang Shinde ! 👨‍💻</strong></p></font>
+<p align="center"><strong>A Computer Science Engineer Focusing on Innovations  </strong></p>
+<p>I'm a passionate and dedicated Computer Science Engineering student with a solid foundation in programming and development. I thrive on using my technical expertise and problem-solving skills to create innovative software solutions. Working collaboratively in a dynamic environment is something I enjoy, and I bring a proactive and detail-oriented approach to tackling complex challenges. </p>
+
 
 <!--
 **kasturi-23/kasturi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
