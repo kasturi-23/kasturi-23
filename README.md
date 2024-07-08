@@ -9,34 +9,25 @@
 - I find both physical activity and reading to be incredibly rewarding ways to relax and recharge.
 
 <H2> 🛠 Tech Stack </H2>
-<h3> Languages and Frameworks</h3>
-<p >
-<img src="https://camo.githubusercontent.com/6f2df6fa42054d4e75941b11b0489d974c2931e2a20d7d7d8149c93b50889eaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3035313232413f7374796c653d666c6174266c6f676f3d43253242253242266c6f676f436f6c6f723d303035393943" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/028f2f27471b9f6f839996f23af96cb7cf8703a3851533e06eec23a7d71d8255/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d464641353138" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/39fd262ae463c95f1d633859f7cb6e9135b5a5ca47711c7f64b31dc68daa5dad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3035313232413f7374796c653d666c6174266c6f676f3d43266c6f676f436f6c6f723d413842394343" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/b95a05885d234291abaea2ccdecbad37bfb47c2964ae818526d76905d8d49438/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/071e45d0c457ee0193625d292ee20129da9775bcc619df46663edb0659388654/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/38b2bf7257f8a2e74117b783af79f76b0b8f25c5360324dc55630a39ef0b3a82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/eac55a4f93501ed5806115edf714656795057376378402d3794e2bdef70705ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<h3>Programming Languages</h3>
 
-
+<p>
+    
+    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    >
 </p>
 
-<h3> Databases </h3>
-<img src="https://camo.githubusercontent.com/7e95531437f8c91626ae46cb69240160dfde5c39c1119c550cd174ba8a19e712/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465
-" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://camo.githubusercontent.com/3fb5c666007b264dde797b2d7e258cae7f336848f3408cef902f04c6065cc146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-
-
-<h3> ML</h3>
-<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-<h3> IDE</h3>
-<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 <!--
 **kasturi-23/kasturi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
