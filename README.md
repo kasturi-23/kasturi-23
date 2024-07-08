@@ -2,6 +2,12 @@
 <p align="center"><strong>A Computer Science Engineer Focusing on Innovations  </strong></p>
 <p align="justify">I'm a passionate and dedicated Computer Science Engineering student with a solid foundation in programming and development. I thrive on using my technical expertise and problem-solving skills to create innovative software solutions. Working collaboratively in a dynamic environment is something I enjoy, and I bring a proactive and detail-oriented approach to tackling complex challenges.<br> First of all, thanks for visiting my profile. Here, is what you should know about me: </p>
 
+- I like to explore new technologies and develop software solutions 
+- My Primary Coding language is Python and Java 
+- I am a self-driven passionate coder who loves to solve problems and write efficient codes.
+- I'm on a track of learning Artificial Intelligence, Database Organization and Cloud Computing.
+- I find both physical activity and reading to be incredibly rewarding ways to relax and recharge.
+
 
 <!--
 **kasturi-23/kasturi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
