@@ -1,4 +1,4 @@
-<p align="center"><bold>Hi, I'm Kasturi Pandurang Shinde ! 👨‍💻</bold>bold</p>
+<p align="center"><bold>Hi, I'm Kasturi Pandurang Shinde ! 👨‍💻</bold></p>
 
 <!--
 **kasturi-23/kasturi-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
