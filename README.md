@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Hi 👋 , I'm Kasturi Pandurang Shinde ! 👨‍💻</strong></h1>
-<p align="center"><strong>A Computer Science Graduate Student and Full Stack Developer focused on AI, Backend Systems, and Cloud Technologies</strong></p>
+<p align="center"><strong>A Computer Science Graduate Student and A software Developer focused on AI, Backend Systems, and Cloud Technologies</strong></p>
 <p align="justify">I'm a passionate and dedicated Computer Science graduate student at Illinois Institute of Technology with experience in building full-stack applications, AI-powered systems, and scalable backend services. I enjoy using my technical expertise and problem-solving skills to create impactful software solutions. I thrive in collaborative environments and bring a proactive, detail-oriented approach to solving complex engineering challenges.<br> First of all, thanks for visiting my profile. Here, is what you should know about me: </p>
 
 - I enjoy building full-stack applications with React, Next.js, FastAPI, Django, and Node.js
