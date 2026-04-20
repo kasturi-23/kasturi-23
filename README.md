@@ -1,43 +1,136 @@
-<h1 align="center"><strong>Hi 👋 , I'm Kasturi Pandurang Shinde ! 👨‍💻</strong></h1>
-<p align="center"><strong>A Computer Science Graduate Student and A software Developer focused on AI, Backend Systems, and Cloud Technologies</strong></p>
-<p align="justify">I'm a passionate and dedicated Computer Science graduate student at Illinois Institute of Technology with experience in building full-stack applications, AI-powered systems, and scalable backend services. I enjoy using my technical expertise and problem-solving skills to create impactful software solutions. I thrive in collaborative environments and bring a proactive, detail-oriented approach to solving complex engineering challenges.<br> First of all, thanks for visiting my profile. Here, is what you should know about me: </p>
+<h1 align="center">Hi 👋, I'm Kasturi Pandurang Shinde</h1>
+<h3 align="center">Computer Science Graduate Student | Software Developer | AI, Backend Systems, and Cloud Technologies</h3>
 
-- I enjoy building full-stack applications with React, Next.js, FastAPI, Django, and Node.js
-- My primary coding languages are Python, JavaScript, TypeScript, Java, and SQL
-- I am passionate about backend engineering, API development, and AI-driven applications
-- I am currently working on multi-agent AI systems using LangGraph and AWS Bedrock
-- I like exploring cloud technologies, DevOps practices, and scalable system design
-- I find both physical activity and reading to be incredibly rewarding ways to relax and recharge
-
-<H2> 🛠 Tech Stack </H2>
-<p align="left">
+<p align="center">
+  <a href="mailto:kasturishindep@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://github.com/">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
-</p>
+---
+
+## 👩‍💻 About Me
+
+I am a Computer Science graduate student at the **Illinois Institute of Technology** with experience in building **AI-powered systems**, **scalable backend services**, and **full-stack applications**. My work focuses on combining software engineering with intelligent systems to create practical, high-impact solutions. I enjoy solving complex engineering problems and building products that are both technically strong and user-focused. :contentReference[oaicite:1]{index=1}
+
+- 🎓 Master’s in Computer Science at Illinois Institute of Technology  
+- 🤖 Interested in AI systems, backend engineering, and cloud technologies  
+- ⚙️ Experienced in full-stack development, API design, multi-agent systems, and DevOps  
+- 🚀 Passionate about building scalable and impactful software solutions  
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- Java
+- PHP
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Libraries
+- React
+- Next.js
+- Node.js
+- Express.js
+- Django
+- FastAPI
+- Flask
+- LangGraph
+- RESTful APIs
+
+### Cloud & DevOps
+- AWS (EC2, S3, Lambda, Bedrock)
+- Docker
+- Kubernetes
+- Terraform
+- CI/CD Pipelines
+- GitHub Actions
+- Agile
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MongoDB Atlas
+- MySQL
+- SQLite
+- Redis
+
+### Tools & Platforms
+- Git
+- GitHub
+- Jira
+- Postman
+- Swagger
+
+---
+
+## 💼 Experience
+
+### Research Assistant  
+**Illinois Institute of Technology, Chicago, USA**  
+**March 2026 – Present**
+
+- Architected a multi-agent startup qualification system using **LangGraph** and **AWS Bedrock**, orchestrating parallel AI agents to generate structured qualification dossiers and reduce mentor review preparation time by **75%**
+- Engineered an **EVAL agent** for market viability analysis, technical feasibility scoring, and red-flag detection using a Kaplan scoring rubric
+- Developed a **TEAM agent** to assess founder-market fit, role alignment, and skill gaps, producing actionable team dynamics reports
+- Built a **FastAPI** backend with **PostgreSQL** for submission intake, orchestration, and dossier aggregation with async parallel execution
+- Designed a **Next.js** portal for entrepreneur submissions and mentor dashboards, containerized with Docker and deployed through CI/CD pipelines :contentReference[oaicite:2]{index=2}
+
+### Full Stack Developer Intern  
+**SPREE, Chicago, USA**  
+**September 2025 – December 2025**
+
+- Developed an AI-powered recruitment platform using **LLMs (Gemini API)** to auto-generate candidate assessments from job descriptions, reducing manual assessment creation by **70%**
+- Built a **9-step job specification wizard** in React using React Router and Context API, reducing recruiter setup time by **60%**
+- Architected secure microservices using **FastAPI** and **MongoDB Atlas**, exposing RESTful APIs with JWT authentication and RBAC
+- Improved API performance by **50%** through aggregation pipeline optimization validated with Postman
+- Designed scalable MongoDB Atlas schemas and compound indexes, improving query efficiency by **45%** :contentReference[oaicite:3]{index=3}
+
+### Software Developer  
+**Static Int, India**  
+**February 2023 – July 2024**
+
+- Contributed to a high-traffic e-commerce platform using **Python Django**
+- Implemented product and checkout workflows, improving overall system performance by **20%**
+- Engineered backend payment gateway integration with database transaction management and **Redis caching**
+- Optimized **PostgreSQL** query performance by **15%** through index analysis and execution plan tuning
+- Configured **GitHub Actions** CI/CD workflows for testing, linting, and Docker-based deployments, reducing manual release overhead and accelerating delivery by **75%**
+- Participated in code reviews, debugging, testing, and Agile sprint execution within a cross-functional engineering team :contentReference[oaicite:4]{index=4}
+
+
+## 🎓 Education
+
+- **Master’s in Computer Science** — Illinois Institute of Technology, **May 2026**
+- **Bachelor of Engineering in Computer Engineering** — University of Mumbai, **June 2023** :contentReference[oaicite:7]{index=7}
+
+---
+
+## 🏆 Achievements
+
+- Secured **1st place** in a Terraform Gameday Challenge organized by the **HashiCorp** team
+- Participated in the **Google Chrome Built-in AI Challenge 2025**
+- **Oracle Cloud Infrastructure (OCI) AI Foundation Certified** :contentReference[oaicite:8]{index=8}
+
+---
+
+## 📈 What I’m Currently Working On
+
+- Multi-agent AI systems using **LangGraph** and **AWS Bedrock**
+- Backend platforms with **FastAPI** and **PostgreSQL**
+- Scalable full-stack applications using **React** and **Next.js**
+- Cloud-native deployment workflows with **Docker** and **CI/CD**
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to collaborating on exciting projects, discussing software engineering, AI systems, backend development, and cloud technologies.
+
+- 📧 Email: **kasturishindep@gmail.com**
+- 🌐 LinkedIn: **Add your LinkedIn profile link here**
+- 💻 GitHub: **Add your GitHub profile link here**
