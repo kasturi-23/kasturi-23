@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Science graduate student at the **Illinois Institute of Technology** with experience in building **AI-powered systems**, **scalable backend services**, and **full-stack applications**. My work focuses on combining software engineering with intelligent systems to create practical, high-impact solutions. I enjoy solving complex engineering problems and building products that are both technically strong and user-focused. :contentReference[oaicite:1]{index=1}
+I am a Computer Science graduate student at the **Illinois Institute of Technology** with experience in building **AI-powered systems**, **scalable backend services**, and **full-stack applications**. My work focuses on combining software engineering with intelligent systems to create practical, high-impact solutions. I enjoy solving complex engineering problems and building products that are both technically strong and user-focused.
 
 - 🎓 Master’s in Computer Science at Illinois Institute of Technology  
 - 🤖 Interested in AI systems, backend engineering, and cloud technologies  
