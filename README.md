@@ -72,15 +72,6 @@ I am a Computer Science graduate student at the **Illinois Institute of Technolo
 ## 💼 Experience
 
 ### Research Assistant  
-**Illinois Institute of Technology, Chicago, USA**  
-**March 2026 – Present**
-
-- Architected a multi-agent startup qualification system using **LangGraph** and **AWS Bedrock**, orchestrating parallel AI agents to generate structured qualification dossiers and reduce mentor review preparation time by **75%**
-- Engineered an **EVAL agent** for market viability analysis, technical feasibility scoring, and red-flag detection using a Kaplan scoring rubric
-- Developed a **TEAM agent** to assess founder-market fit, role alignment, and skill gaps, producing actionable team dynamics reports
-- Built a **FastAPI** backend with **PostgreSQL** for submission intake, orchestration, and dossier aggregation with async parallel execution
-- Designed a **Next.js** portal for entrepreneur submissions and mentor dashboards, containerized with Docker and deployed through CI/CD pipelines :contentReference[oaicite:2]{index=2}
-
 ### Full Stack Developer Intern  
 **SPREE, Chicago, USA**  
 **September 2025 – December 2025**
