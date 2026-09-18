@@ -68,32 +68,6 @@ I am a Computer Science graduate student at the **Illinois Institute of Technolo
 - Swagger
 
 ---
-
-## 💼 Experience
-
-### Research Assistant  
-### Full Stack Developer Intern  
-**SPREE, Chicago, USA**  
-**September 2025 – December 2025**
-
-- Developed an AI-powered recruitment platform using **LLMs (Gemini API)** to auto-generate candidate assessments from job descriptions, reducing manual assessment creation by **70%**
-- Built a **9-step job specification wizard** in React using React Router and Context API, reducing recruiter setup time by **60%**
-- Architected secure microservices using **FastAPI** and **MongoDB Atlas**, exposing RESTful APIs with JWT authentication and RBAC
-- Improved API performance by **50%** through aggregation pipeline optimization validated with Postman
-- Designed scalable MongoDB Atlas schemas and compound indexes, improving query efficiency by **45%**.
-
-### Software Developer  
-**Static Int, India**  
-**February 2023 – July 2024**
-
-- Contributed to a high-traffic e-commerce platform using **Python Django**
-- Implemented product and checkout workflows, improving overall system performance by **20%**
-- Engineered backend payment gateway integration with database transaction management and **Redis caching**
-- Optimized **PostgreSQL** query performance by **15%** through index analysis and execution plan tuning
-- Configured **GitHub Actions** CI/CD workflows for testing, linting, and Docker-based deployments, reducing manual release overhead and accelerating delivery by **75%**
-- Participated in code reviews, debugging, testing, and Agile sprint execution within a cross-functional engineering team.
-
-
 ## 🎓 Education
 
 - **Master’s in Computer Science** — Illinois Institute of Technology, **May 2026**
